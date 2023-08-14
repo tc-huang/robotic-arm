@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "conventionalCommits.scopes": [
+        "root"
+    ]
+}
